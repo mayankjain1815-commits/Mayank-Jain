@@ -1,5 +1,6 @@
 # Mayank-Jain
-Bank Management System {
+
+BANK MANAGEMENT SYSTEM{
 A begginer-friendly, console-based banking application written entirely in C. This project simulates basic banking operations and is designed to demonstrate fundamental programming concepts like structures,functions, and conditional logic.
 
 FEATURES-> 
