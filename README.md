@@ -45,7 +45,7 @@ FUTURE IMPROVEMENTS->
 
 3. Add a simple interest calculation function.
 
----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -65,7 +65,7 @@ Would be compressed by this program into a sequence of bytes representing:
 NOTE: This algorithm is most effective on files with high-frequency repeating characters (like simple text art or uncompressed bitmap images). For files with little repetition, the output file may be slightly larger than the original.
 
 
-FEATURES ✨->
+FEATURES ->
 1. Simple RLE Algorithm: Implements a straightforward compression logic.
 
 2. Command-Line Interface: Takes input and output filenames as arguments for easy use in a terminal.
@@ -104,9 +104,44 @@ Create a sample file named input.txt with some repeating text (e.g., aaaaabbc). 
 ./compressor input.txt compressed_output.bin
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+Project AETHER 
+AI-Powered Autonomous Drone Ecosystem for National Emergency Response**
 
+AETHER is a sovereign AI-native platform designed to serve as India's "national nervous system" for emergency response. By deploying an autonomous "Drone as a First Responder" (DFR) network, AETHER addresses the critical Golden Hour in disaster management.
+
+
+Core Features
+* Cognitive Navigation: GPS-independent flight using LiDAR and stereo vision fusion for urban canyons and collapsed structures.
+* Swarm Intelligence: Decentralized coordination allowing multiple units to cover search areas 42% faster.
+* Edge Computing: Onboard AI inference for real-time victim detection and damage assessment without cloud dependency.
+* DaaS Model: A Drones-as-a-Service subscription framework that removes capital barriers for government agencies.
+
+ The Fleet
+| Model | Type | Endurance | Payload | Primary Mission |
+| Surveyor | VTOL | 90+ min | 5 kg | 3D Mapping & Damage Assessment |
+| Stork | Delivery | 50 min | 25 kg | Medical & Food Logistics |
+| Sentinel | Quadcopter| 50 min | 4 kg | Search & Rescue (ISR) |
+| Guardian | Tethered | 8+ hours| 30 kg | Continuous Monitoring / Comms Relay |
+
+ Impact Metrics
+* 35-50% improvement in emergency response times.
+* 40% reduction in operational costs for state agencies.
+* 93% faster arrival on scene compared to traditional ground teams.
+
+ Tech Stack
+* Frontend: HTML5, CSS3 (Modern Flex/Grid architecture)
+* Visualization: Chart.js for real-time market and ROI forecasting.
+* Navigation Logic: SLAM (Simultaneous Localization and Mapping) & EKF (Extended Kalman Filter) models.
+
+Roadmap
+- Phase 1: R&D & Regulatory (DGCA Type Certifications) - 2026.
+- Phase 2: Karnataka Pilot Deployment (Bengaluru Flood Zones) - 2027.
+- Phase 3: National Scale-up with NDMA & SDRFs - 2028.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
